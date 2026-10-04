@@ -153,6 +153,10 @@ activemq-data/
 .env
 .envrc
 .venv
+.venv/
+*.py[cod]
+reports/*
+!reports/.gitkeep
 env/
 venv/
 ENV/
