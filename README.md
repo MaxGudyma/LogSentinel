@@ -170,7 +170,7 @@ pytest
 ## 🗺️ Development Roadmap
 
 - [x] Initialize project structure and development environment
-- [ ] Implement log file ingestion
+- [x] Implement log file ingestion
 - [ ] Develop Linux authentication log parser
 - [ ] Create a standardized security event model
 - [ ] Implement the rule-based detection engine
